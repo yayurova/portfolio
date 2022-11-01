@@ -1,6 +1,6 @@
 # portfolio
 
-##/requirement's analysis  
+/requirement's analysis  
 1. Диаграмма классов  
 2. Диаграмма варинатов использования  
 3. Диаграмма послежовательности   
@@ -17,7 +17,7 @@
 1. Прототип главного экрана приложения для учёта трат для iOS
 [Cсылка] : https://www.figma.com/proto/8eLCeUbyVf8WUQgUxztcSA/Untitled?page-id=0%3A1&node-id=4%3A44&viewport=323%2C416%2C0.78&scaling=scale-down
 
-2. Прототипа главного экрана приложения для учёта трат под Android, 2 страницы с переходом и обратным возвратом [Ссылка] : https://www.figma.com/proto/nBaWp2rPMYCT7UtVAcuCRk/Untitled-(Copy)?page-id=0%3A1&node-id=104%3A72&viewport=1004%2C-137%2C1.42&scaling=scale-down&starting-point-node-id=104%3A72
+2. Прототип главного экрана приложения для учёта трат под Android, 2 страницы с переходом и обратным возвратом [Ссылка] : https://www.figma.com/proto/nBaWp2rPMYCT7UtVAcuCRk/Untitled-(Copy)?page-id=0%3A1&node-id=104%3A72&viewport=1004%2C-137%2C1.42&scaling=scale-down&starting-point-node-id=104%3A72
 
 ##/bpmn
 
