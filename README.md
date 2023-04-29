@@ -3,7 +3,7 @@
 /requirement's analysis  
 1. Диаграмма классов  
 2. Диаграмма варинатов использования  
-3. Диаграмма послежовательности   
+3. Диаграмма последовательности   
 4. Блок-схема  
 5. Итоговая работу по модулю "Анализ требований"
 6. Презентация "Планнер" СА
@@ -15,7 +15,7 @@
 1. Описание API кинотеатра
 2. [Swagger-документ] : https://app.swaggerhub.com/apis/YAYUROVA_1/SF-1/1.0.1
 
-prototype
+/prototype
 
 1. Прототип главного экрана приложения для учёта трат для iOS
 [Cсылка] : https://www.figma.com/proto/8eLCeUbyVf8WUQgUxztcSA/Untitled?page-id=0%3A1&node-id=4%3A44&viewport=323%2C416%2C0.78&scaling=scale-down
@@ -28,6 +28,7 @@ prototype
 2. Бронирование в отеле
 3. Написание курсовой
 
+
 /documentation
  
 1. Customer journey map
@@ -38,6 +39,8 @@ prototype
 /final project
 1. Software requirements specification сатйа онлайн кинотеатра  
 2. Презентация
+
+/analytics case
 
 /presentation
 1. Презентация для Тинькофф (БА и СА)
