@@ -2,6 +2,7 @@
 
 /IQuest project
 1. Техническое задания для сайта для городской сети реалити квестов в Томске IQuest
+   https://docs.google.com/document/d/15lPgYLtKXOCt_TMiPIAq3STJIStJ2D1nd-eAvpCP4ww/edit?usp=sharing
    
 /requirement's analysis  
 1. Диаграмма классов  
